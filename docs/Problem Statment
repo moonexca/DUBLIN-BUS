@@ -1,0 +1,22 @@
+Problem statement
+Dublin Bus users experience service unreliability through irregular headways, long gaps, bunching, and unpredictable waiting times, 
+which reduces trust in the system and makes trip planning difficult.
+
+Why selected
+The problem was selected through a structured exploratory process based on field observation, thematic decomposition, and a weighted 
+multicriteria matrix. It ranked highest due to its high user impact, strong alignment with Dublin Bus priorities on reliable and timely service, and high measurability with operational data. Dublin Bus explicitly frames service excellence, reliable service and data-driven decision-making as priorities The Customer Charter also commits to reliability, departures within target windows, and accurate real-time information
+
+East–west relevance
+The issue is particularly visible in long east–west and cross-city movements, where limited alternatives, transfer dependence, and corridor 
+length increase the impact of service unreliability. In this project, east–west corridors are treated as a critical spatial case through which the broader reliability problem can be examined.
+
+Metrics
+headway variance
+excess waiting time
+early/late deviation
+long gap frequency
+bus bunching frequency
+
+Initial data direction
+The selected problem is appropriate for analysis using operational and timetable-related data because it can be translated into measurable 
+reliability indicators.
